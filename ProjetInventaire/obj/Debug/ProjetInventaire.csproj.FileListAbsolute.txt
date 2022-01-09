@@ -1,0 +1,156 @@
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojResolveAssemblyReference.cache
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.Cache
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+N:\Semester3\App Dev\Projet\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire2 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.DetailsProduitForm.resources
+C:\Users\Chuu\Documents\Semester 3 (Fall 2020)\Developement d application 4GL et GUI\Projet Inventaire\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire3 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire4 - Machine locale\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire5 - Machine locale -\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire VF\ProjetInventaire VF\ProjetInventaire4 - Machine locale\ProjetInventaire3 - Machine locale\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csprojAssemblyReference.cache
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\ProjetInventaire\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\bin\Debug\ProjetInventaire.exe.config
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\bin\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\bin\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.AccueilForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.Properties.Resources.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.RechercherProduit.RechercherProduitForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.AjouterProduitForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.ModifierProduitForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.SupprimerProduitForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaireForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableMaListeDAchatForm.resources
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.GenerateResource.cache
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.exe
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.pdb
+C:\Users\Chuu\Documents\PW\APP DEV\ProjetInventaireVF\ProjetInventaire\obj\Debug\ProjetInventaire.TableInventaire.View_Inventory.ViewInventoryForm.resources

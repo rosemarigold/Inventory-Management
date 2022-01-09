@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05E1C321-814B-4849-87BA-C1C7D0B83C39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetInventaire</RootNamespace>
+    <AssemblyName>ProjetInventaire</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RechercherProduit\RechercherProduitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RechercherProduit\RechercherProduitForm.Designer.cs">
+      <DependentUpon>RechercherProduitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableInventaire\AjouterProduitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableInventaire\AjouterProduitForm.Designer.cs">
+      <DependentUpon>AjouterProduitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableInventaire\DetailsProduit\DetailsProduitDAO.cs" />
+    <Compile Include="TableInventaire\DetailsProduit\DetailsProduitVO.cs" />
+    <Compile Include="TableInventaire\ListeFournisseur\ListeFournisseurDAO.cs" />
+    <Compile Include="TableInventaire\ListeFournisseur\ListeFournisseurVO.cs" />
+    <Compile Include="TableInventaire\ListeProduit\ListeProduitDAO.cs" />
+    <Compile Include="TableInventaire\ListeProduit\ListeProduitVO.cs" />
+    <Compile Include="TableInventaire\ModiferProduit\ModifierProduitDAO.cs" />
+    <Compile Include="TableInventaire\ModiferProduit\ModifierProduitVO.cs" />
+    <Compile Include="TableInventaire\ModiferProduit\ModifierProduitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableInventaire\ModiferProduit\ModifierProduitForm.Designer.cs">
+      <DependentUpon>ModifierProduitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableInventaire\SupprimerProduitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableInventaire\SupprimerProduitForm.Designer.cs">
+      <DependentUpon>SupprimerProduitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableInventaire\TableInventaireForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableInventaire\TableInventaireForm.Designer.cs">
+      <DependentUpon>TableInventaireForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaListeDachat\TableMaListeDAchatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaListeDachat\TableMaListeDAchatForm.Designer.cs">
+      <DependentUpon>TableMaListeDAchatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaListeDachat\TableMaListeDAchatDAO.cs" />
+    <Compile Include="MaListeDachat\TableMaListeDAchatVO.cs" />
+    <Compile Include="TableInventaire\View_Inventory\TableMonInventaireDAO.cs" />
+    <Compile Include="TableInventaire\View_Inventory\TableMonInventaireVO.cs" />
+    <Compile Include="TableInventaire\View_Inventory\ViewInventoryDAO.cs" />
+    <Compile Include="TableInventaire\View_Inventory\ViewInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableInventaire\View_Inventory\ViewInventoryForm.Designer.cs">
+      <DependentUpon>ViewInventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableInventaire\View_Inventory\ViewInventoryVO.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RechercherProduit\RechercherProduitForm.resx">
+      <DependentUpon>RechercherProduitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableInventaire\AjouterProduitForm.resx">
+      <DependentUpon>AjouterProduitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableInventaire\ModiferProduit\ModifierProduitForm.resx">
+      <DependentUpon>ModifierProduitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableInventaire\SupprimerProduitForm.resx">
+      <DependentUpon>SupprimerProduitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableInventaire\TableInventaireForm.resx">
+      <DependentUpon>TableInventaireForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaListeDachat\TableMaListeDAchatForm.resx">
+      <DependentUpon>TableMaListeDAchatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableInventaire\View_Inventory\ViewInventoryForm.resx">
+      <DependentUpon>ViewInventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\search-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
