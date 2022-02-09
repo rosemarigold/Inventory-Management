@@ -135,7 +135,7 @@ namespace ProjetInventaire.TableInventaire
                         string supprimerProduitDeLaTableInventaire = "delete from Inventaire where NumeroProduit = " + numeroDuProduitASupprimer + ";";
                         //
                         string selectionnerFournisseurdDuProduitASupprimer = "select NumeroFournisseur from Fournisseur where NumeroFournisseur = (select NumeroFournisseur from ListeFournisseur  " +
-                            "where ListeFournisseur.NumeroFournisseur = " + numeroDuProduitASupprimer + ")";
+                            "where ListeFournisseur.NumeroProduit = " + numeroDuProduitASupprimer + ")";
 
                         // Permet d'avoir le "factory provider"
                         DbProviderFactory trouveFactoryProvider1 = DbProviderFactories.GetFactory(appelConnexion1);
@@ -164,8 +164,8 @@ namespace ProjetInventaire.TableInventaire
                             command6.Connection = connection1;
 
                             // On utilise la commande pour supprimer le produit des tables InfoProduit et Inventaire
-                            command1.CommandText = supprimerProduitDeLaTableInfoProduit;
-                            command2.CommandText = supprimerProduitDeLaTableInventaire;
+                            //command1.CommandText = supprimerProduitDeLaTableInfoProduit;
+                            //command2.CommandText = supprimerProduitDeLaTableInventaire;
                             command6.CommandText = supprimerProduitDeLaTableListeAchat;
                             command6.ExecuteNonQuery();
                             command5.CommandText = selectionnerFournisseurdDuProduitASupprimer;
@@ -196,7 +196,7 @@ namespace ProjetInventaire.TableInventaire
                             command2.ExecuteNonQuery();
 
                             // On supprime le produit de la table InfoProduit
-                            command1.CommandText = supprimerProduitDeLaTableInfoProduit;                
+                            command1.CommandText = supprimerProduitDeLaTableInfoProduit;
                             command1.ExecuteNonQuery();   // Utiliser pour effectuer des commandes SQL (update, insert, delete, etc) et executer les commandes
 
                         }

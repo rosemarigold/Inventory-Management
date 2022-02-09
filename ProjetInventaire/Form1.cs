@@ -22,9 +22,28 @@ namespace ProjetInventaire
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           
+            // Source: https://stackoverflow.com/questions/24821528/top-level-control-cannot-be-added-to-a-control
+            TableInventaireForm tableInventaire = new TableInventaireForm();
 
+            // Send the form to the back to be able to add it to the panel
+            tableInventaire.TopLevel = false;
+
+            // Remove the form shown in the panel if the panel already has a form in it
+            panel2.Controls.Clear();
+
+            // Add Form "tableInventaire" to the panel
+            panel2.Controls.Add(tableInventaire);
+
+            // No border style
+            tableInventaire.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+
+            // Docked to its parent control and determines how a control is resized with its parent
+            tableInventaire.Dock = DockStyle.Fill;
+
+            // Show Form "tableInventaire" into the panel
+            tableInventaire.Show();
         }
+
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {

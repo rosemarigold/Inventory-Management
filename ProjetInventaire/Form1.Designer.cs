@@ -104,13 +104,14 @@
             this.ClientSize = new System.Drawing.Size(1034, 492);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(1052, 539);
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(1052, 539);
             this.Name = "AccueilForm";
+            this.ShowIcon = false;
             this.Text = "MyInventory";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);

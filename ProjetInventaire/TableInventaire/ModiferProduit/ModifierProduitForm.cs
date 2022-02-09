@@ -69,22 +69,7 @@ namespace ProjetInventaire.TableInventaire
             // to avoid selecting multiple cells
             dataGridView1.MultiSelect = false;
 
-            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-
-            int numberOfRows = dataGridView1.Rows.Count;
-
-            //dataGridView1.Rows[0]= Color.Red;
-            dataGridView1.Rows[1].DefaultCellStyle.BackColor = Color.Red;
-           
-
-            for (int i = 0; i < numberOfRows; i++) {
-
-                //dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.Red;
-                /*if (i % 2 != 0) {
-                    dataGridView1.Rows[0].DefaultCellStyle.ForeColor = Color.Beige;
-                }*/
-            }
-            
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;      
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -100,35 +85,25 @@ namespace ProjetInventaire.TableInventaire
             textBox4.Text = row.Cells[3].Value.ToString();
             textBox5.Text = row.Cells[4].Value.ToString();
             textBox6.Text = row.Cells[5].Value.ToString();
-
-            // if (dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
-            // if (dataGridView1.Rows[e.RowIndex].Cells[0].Value != null)
-            /* if (dataGridView1.SelectedCells != null)
-             {
-                 // MessageBox.Show(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
-                 // Pour capturer le numéro du produit à modifier
-                 numeroProduit = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();            
-             }*/
-            //numeroProduit = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
         }
+
         // Bouton Mettre à jour
         private void button1_Click(object sender, EventArgs e)
         {
-
             // Liste d'erreurs possibles lorsque le client insère un nouveau produit
             // Si la quantité actuelle inséré n'est pas une valeur numérique entière
             if (!this.textBox5.Text.All(char.IsDigit) || !this.textBox6.Text.All(char.IsDigit))
             {
-                string message = "SVP insérer une valeur numérique entière (0,1,2,3,...).";
-                string title = "Mauvaise valeur";
+                string message = "Please enter an integer numeric value (1,2,3,...).";
+                string title = "Incorrect Input";
                 MessageBox.Show(message, title);
             }
             // Si un textbox est vide
             else if (this.textBox2.Text == "" || this.textBox3.Text == "" || this.textBox4.Text == "" || this.textBox5.Text == "" || this.textBox6.Text == "")
             {
 
-                string message = "SVP entrez toutes les boites de texte en rouge.";
-                string title = "Valeur manquante";
+                string message = "Please fill all fields.";
+                string title = "Missing Value";
                 MessageBox.Show(message, title);
             }
             else

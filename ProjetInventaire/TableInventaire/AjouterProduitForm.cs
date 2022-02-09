@@ -141,16 +141,16 @@ namespace ProjetInventaire.TableInventaire
             // Si la quantité actuelle inséré n'est pas une valeur numérique entière
             if (!this.textBoxProductCurrentQuantity.Text.All(char.IsDigit) || !this.textBoxProductMinimumQuantity.Text.All(char.IsDigit))
             {
-                string message = "SVP insérer une valeur numérique entière (0,1,2,3,...).";
-                string title = "Mauvaise valeur";
+                string message = "Please enter an integer numeric value (1,2,3,...).";
+                string title = "Incorrect Input";
                 MessageBox.Show(message, title);
             }
             // Si un textbox est vide
             else if (this.textBoxProductName.Text == "" || this.textBoxProductDescription.Text == "" || this.textBoxProductType.Text == "" || this.textBoxProductCurrentQuantity.Text == "" || this.textBoxProductMinimumQuantity.Text == ""
                 || this.textBoxProviderFirstName.Text == "" || this.textBoxProviderLastName.Text == "" || this.textBoxProviderAddress.Text == "" || this.textBoxProivderEmail.Text == "") {
 
-                string message = "SVP entrez toutes les informations requises. \nNe laissez aucune boîte de texte vide!";
-                string title = "Valeur manquante";
+                string message = "Please fill all fields.";
+                string title = "Missing value";
                 MessageBox.Show(message, title);
             }
 
@@ -228,8 +228,8 @@ namespace ProjetInventaire.TableInventaire
                 }
 
                 // On affiche une fenêtre qui confirme l'ajout du nouveau produit.
-                string message2 = this.textBoxProductName.Text + " a été ajouté à l'inventaire.";
-                string title2 = "Nouveau produit";
+                string message2 = this.textBoxProductName.Text + " was added to your inventory.";
+                string title2 = "New product";
                 MessageBox.Show(message2, title2);
 
                 // Après l'insertion du nouveau produit, les boites de texte sont vidées.
